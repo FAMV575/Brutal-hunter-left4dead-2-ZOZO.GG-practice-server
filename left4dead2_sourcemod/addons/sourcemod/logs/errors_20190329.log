@@ -1,0 +1,44 @@
+L 03/29/2019 - 10:10:21: SourceMod error session started
+L 03/29/2019 - 10:10:21: Info (map "c11m5_runway") (file "errors_20190329.log")
+L 03/29/2019 - 10:10:21: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 10:10:39: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 10:10:39: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/29/2019 - 10:10:39: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/29/2019 - 10:10:39: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 10:14:34: Error log file session closed.
+L 03/29/2019 - 12:41:28: SourceMod error session started
+L 03/29/2019 - 12:41:28: Info (map "c5m2_park") (file "errors_20190329.log")
+L 03/29/2019 - 12:41:28: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 12:41:36: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 12:41:36: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/29/2019 - 12:41:36: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/29/2019 - 12:41:36: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 16:40:52: Error log file session closed.
+L 03/29/2019 - 17:35:56: SourceMod error session started
+L 03/29/2019 - 17:35:56: Info (map "c5m2_park") (file "errors_20190329.log")
+L 03/29/2019 - 17:35:56: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 17:51:01: Error log file session closed.
+L 03/29/2019 - 18:19:45: SourceMod error session started
+L 03/29/2019 - 18:19:45: Info (map "c5m2_park") (file "errors_20190329.log")
+L 03/29/2019 - 18:19:45: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 18:30:52: Error log file session closed.
+L 03/29/2019 - 19:27:23: SourceMod error session started
+L 03/29/2019 - 19:27:23: Info (map "c3m1_plankcountry") (file "errors_20190329.log")
+L 03/29/2019 - 19:27:23: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 19:27:38: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 19:27:38: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/29/2019 - 19:27:38: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/29/2019 - 19:27:38: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 19:33:23: Error log file session closed.
+L 03/29/2019 - 20:28:01: SourceMod error session started
+L 03/29/2019 - 20:28:01: Info (map "c13m1_alpinecreek") (file "errors_20190329.log")
+L 03/29/2019 - 20:28:01: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 20:28:06: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 20:28:06: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/29/2019 - 20:28:06: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/29/2019 - 20:28:06: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/29/2019 - 20:31:11: Error log file session closed.
+L 03/29/2019 - 21:00:15: SourceMod error session started
+L 03/29/2019 - 21:00:15: Info (map "c13m4_cutthroatcreek") (file "errors_20190329.log")
+L 03/29/2019 - 21:00:15: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/29/2019 - 21:13:18: Error log file session closed.

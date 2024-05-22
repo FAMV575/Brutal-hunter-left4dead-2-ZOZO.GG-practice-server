@@ -1,0 +1,32 @@
+L 03/28/2019 - 15:47:02: SourceMod error session started
+L 03/28/2019 - 15:47:02: Info (map "c5m2_park") (file "errors_20190328.log")
+L 03/28/2019 - 15:47:02: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/28/2019 - 15:47:08: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 15:47:08: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/28/2019 - 15:47:08: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/28/2019 - 15:47:09: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 15:52:40: Error log file session closed.
+L 03/28/2019 - 16:07:35: SourceMod error session started
+L 03/28/2019 - 16:07:35: Info (map "c3m2_swamp") (file "errors_20190328.log")
+L 03/28/2019 - 16:07:35: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/28/2019 - 16:07:39: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 16:07:39: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/28/2019 - 16:07:39: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/28/2019 - 16:07:39: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 16:21:58: Error log file session closed.
+L 03/28/2019 - 17:17:16: SourceMod error session started
+L 03/28/2019 - 17:17:16: Info (map "c10m2_drainage") (file "errors_20190328.log")
+L 03/28/2019 - 17:17:16: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/28/2019 - 17:17:19: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 17:17:19: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/28/2019 - 17:17:19: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/28/2019 - 17:17:19: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 17:25:29: Error log file session closed.
+L 03/28/2019 - 17:53:15: SourceMod error session started
+L 03/28/2019 - 17:53:15: Info (map "c3m2_swamp") (file "errors_20190328.log")
+L 03/28/2019 - 17:53:15: [SM] Failed to load plugin "nextmap.smx": Nextmap is incompatible with this game.
+L 03/28/2019 - 17:53:21: [UPDATER] --- BEGIN ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 17:53:21: [UPDATER] Could not download "http://update.sourcemod.net/update/"
+L 03/28/2019 - 17:53:21: [UPDATER] Error: Could not resolve host: update.sourcemod.net; Host not found
+L 03/28/2019 - 17:53:21: [UPDATER] --- END ERRORS FROM AUTOMATIC UPDATER ---
+L 03/28/2019 - 17:53:57: Error log file session closed.
